@@ -1,2 +1,3 @@
 # hello-world
-Testing how to use GitHub
+
+Hello to future self. This was dedicated to figuring out how to use GitHub. RIP
